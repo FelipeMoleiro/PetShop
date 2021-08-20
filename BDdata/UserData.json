@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "5f156c45be93ab2dac0853b2"
+  },
+  "admin": true,
+  "user": "admin",
+  "email": "admin@admin.com",
+  "password": "admin",
+  "phone": "admin",
+  "address": "admin",
+  "pets": [],
+  "cart": [],
+  "imgPath": "uploads/profileImgs/default-user-image.png",
+  "__v": 0
+}]

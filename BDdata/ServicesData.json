@@ -1,0 +1,58 @@
+[{
+  "_id": {
+    "$oid": "5f1a7e7e689f1f27d8b19e72"
+  },
+  "hours": [
+    "10:00"
+  ],
+  "days": [
+    "Monday",
+    "Tuesday",
+    "Thursday",
+    "Friday"
+  ],
+  "sold": 0,
+  "name": "Pet Grooming",
+  "price": 39.9,
+  "scheduled": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f1a7f16689f1f27d8b19e74"
+  },
+  "hours": [
+    "10:00",
+    "16:00",
+    "18:00"
+  ],
+  "days": [
+    "Tuesday",
+    "Wednesday",
+    "Thursday"
+  ],
+  "sold": 0,
+  "name": "Training",
+  "price": 99.99,
+  "scheduled": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f1a8448689f1f27d8b19e80"
+  },
+  "hours": [
+    "10:00",
+    "13:00",
+    "16:00",
+    "18:00"
+  ],
+  "days": [
+    "Monday",
+    "Wednesday",
+    "Friday"
+  ],
+  "sold": 0,
+  "name": "Pet Cleaning",
+  "price": 35.75,
+  "scheduled": [],
+  "__v": 0
+}]

@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "5f1a7fff689f1f27d8b19e76"
+  },
+  "quantity_sold": 0,
+  "imgPath": "uploads\\productImgs\\2020-07-24T06-30-23.214Z.jpeg",
+  "name": "Dog House",
+  "price": 199.99,
+  "quantity_stock": 50,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f1a802b689f1f27d8b19e77"
+  },
+  "quantity_sold": 0,
+  "imgPath": "uploads\\productImgs\\2020-07-24T06-31-07.624Z.jpeg",
+  "name": "Dog Food",
+  "price": 59.89,
+  "quantity_stock": 50,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f1a80a2689f1f27d8b19e78"
+  },
+  "quantity_sold": 0,
+  "imgPath": "uploads\\productImgs\\2020-07-24T06-33-06.091Z.jpeg",
+  "name": "Cat Food",
+  "price": 49.99,
+  "quantity_stock": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f1a80cb689f1f27d8b19e79"
+  },
+  "quantity_sold": 0,
+  "imgPath": "uploads\\productImgs\\2020-07-24T06-33-47.007Z.jpeg",
+  "name": "Plastic Bone",
+  "price": 23.99,
+  "quantity_stock": 17,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f1a810d689f1f27d8b19e7a"
+  },
+  "quantity_sold": 0,
+  "imgPath": "uploads\\productImgs\\2020-07-24T06-34-53.259Z.jpeg",
+  "name": "Fluff Balls",
+  "price": 15.78,
+  "quantity_stock": 59,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f1a8264689f1f27d8b19e7b"
+  },
+  "quantity_sold": 0,
+  "imgPath": "uploads\\productImgs\\2020-07-24T06-40-36.950Z.jpeg",
+  "name": "Transport Box",
+  "price": 199.99,
+  "quantity_stock": 35,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f1a82cd689f1f27d8b19e7d"
+  },
+  "quantity_sold": 0,
+  "imgPath": "uploads\\productImgs\\2020-07-24T06-42-21.563Z.jpeg",
+  "name": "Cat House",
+  "price": 299.99,
+  "quantity_stock": 56,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f1a833a689f1f27d8b19e7e"
+  },
+  "quantity_sold": 0,
+  "imgPath": "uploads\\productImgs\\2020-07-24T06-44-10.692Z.jpeg",
+  "name": "Cat Scratcher",
+  "price": 132.76,
+  "quantity_stock": 35,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f1a83ef689f1f27d8b19e7f"
+  },
+  "quantity_sold": 0,
+  "imgPath": "uploads\\productImgs\\2020-07-24T06-47-11.024Z.jpeg",
+  "name": "Parrot Cage",
+  "price": 599.99,
+  "quantity_stock": 10,
+  "__v": 0
+}]

@@ -1,0 +1,13 @@
+/* Felipe Guilermmo Santcuhe Moleriro - 10724010 */
+body {
+    margin:0px;
+    min-width: 500px;
+    background-color: #7bcfff;
+    min-height: calc(100%);
+    --minwidth: 1400px;
+    min-width: var(--minwidth);
+}
+
+* {
+    outline: transparent;
+}
